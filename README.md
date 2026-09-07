@@ -2,7 +2,7 @@
 
 **Data Scientist | Machine Learning | AI Engineer**  
 📍 Riyadh, Saudi Arabia  
-📧 abdulmajeedaljuhani.12@gmail.com  
+ 
 🔗 [LinkedIn](#) · [GitHub](#)
 
 ---
